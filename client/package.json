@@ -12,7 +12,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.3.1",
     "capitalize": "^2.0.3",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "classnames": "^2.2.6",
     "comma-number": "^2.0.1",
     "darkreader": "^4.9.17",
